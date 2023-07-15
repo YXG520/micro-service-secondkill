@@ -20,7 +20,7 @@ spring:
     druid:
       url: jdbc:mysql://secondkill-mysql:3306/choy_ms?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
       username: root
-      password: 86598659yu
+      password: 192266
       initial-size: 10
       max-active: 100
       min-idle: 10
